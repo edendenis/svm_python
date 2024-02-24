@@ -1,5 +1,6 @@
 # Support Vector Machine (SVM)
 
+[![DOI](https://zenodo.org/badge/758315494.svg)](https://zenodo.org/doi/10.5281/zenodo.10668998)
 
 
 ## Resumo
